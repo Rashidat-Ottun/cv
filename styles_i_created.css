@@ -1,0 +1,25 @@
+h1 {
+  color: #40a784;
+  background-color: black;
+  font-size: 20px;
+  text-decoration: underline;
+  font-family: Arial;
+  text-align: center;
+}
+p {
+  color: darkgreen;
+  text-align: center;
+  line-height: 25px;
+  letter-spacing: 1px;
+}
+ul {
+  /* border-width: 3px;
+    border-style: solid;
+    border-color: brown; */
+  /* border: 3px solid brown; */
+  border-bottom: 3px dotted brown;
+  border-left: 8px dashed #9290b1;
+}
+li {
+  list-style-type: none;
+}
